@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2> Hi, I'm Murunga Kibaara! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.quatrixglobal.com">Quatrix Global</a>
+<p><em>Software Engineer at <a href="http://www.quatrixglobal.com">Quatrix Global</a>
 <!--   <img src="https://gph.is/g/ZYx6AXO" width="30"> -->
 </em></p>
 
