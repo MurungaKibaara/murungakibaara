@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <p><em>Software Enginner at <a href="http://www.quatrixglobal.com">Quatrix Global</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: murunga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murunga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Murunga](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/murungakibaara)
+[![Linkedin: murunga](https://img.shields.io/badge/-murungakibaara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murunga/)](https://www.linkedin.com/in/murunga/)
+[![GitHub Murunga](https://img.shields.io/github/followers/murungakibaara?label=follow&style=social)](https://github.com/murungakibaara)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
