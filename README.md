@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi, I'm Murunga Kibaara! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.quatrixglobal.com">Quatrix Global</a><img src="https://gph.is/g/ZYx6AXO" width="30">
+<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.quatrixglobal.com">Quatrix Global</a>
+<!--   <img src="https://gph.is/g/ZYx6AXO" width="30"> -->
 </em></p>
 
 [![Linkedin: murunga](https://img.shields.io/badge/-murungakibaara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murunga/)](https://www.linkedin.com/in/murunga/)
