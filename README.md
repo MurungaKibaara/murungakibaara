@@ -26,11 +26,9 @@ Here are some ideas to get you started:
 
 ```javascript
 const murunga = {
-  pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Dart, Python],
-  tools: [React, Redux, Node, Flask, Django, Flutter, Docker],
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [Flask, Django, Odoo, React, Redux, Node, React Native, Docker, Postgresql],
   architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
