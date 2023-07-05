@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 <h2> Hi, I'm Murunga Kibaara! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
-<p><em>I write code at <a href="http://www.muchconsulting.de">much. Gmbh</a>
-<!--   <img src="https://gph.is/g/ZYx6AXO" width="30"> -->
-</em></p>
 
 [![Linkedin: murunga](https://img.shields.io/badge/-murungakibaara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murunga/)](https://www.linkedin.com/in/murunga/)
 [![GitHub Murunga](https://img.shields.io/github/followers/murungakibaara?label=follow&style=social)](https://github.com/murungakibaara)
